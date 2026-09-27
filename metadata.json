@@ -1,0 +1,6 @@
+{
+  "name": "SmartRekap OCR - Input Barang & Spreadsheet Scanner",
+  "description": "Aplikasi rekap barang otomatis berbasis foto dan OCR AI presisi tinggi untuk No Seri, Merk, Type, dan Distributor dengan integrasi spreadsheet lengkap.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
